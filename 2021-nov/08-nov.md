@@ -13,3 +13,6 @@ Vyper:
 8. vyper claim a given smart contract's code should exist in one file. vyper clain every variable or function should be declared before used.
 9. vyper has built-in overflow protection. buildt on LLL.
 10. vyper is a powerful and interesting contract language. Design towards correctness, at the expense of some flexibility.
+
+## Dingding's Review
+1. 
