@@ -15,4 +15,4 @@ Vyper:
 10. vyper is a powerful and interesting contract language. Design towards correctness, at the expense of some flexibility.
 
 ## Dingding's Review
-1. 
+1. 今天看完了第四张和第五章的一半，第五章涉及了一些密码学的知识，比较感兴趣，准备翻些额外的资料再补补课。
