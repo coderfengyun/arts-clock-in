@@ -5,3 +5,4 @@ Smart Contract Security
 3. Delegatecall: 环境变量覆盖，与solidity状态或变量存储方式有关。使用library关键字，并保证库合约是无状态和不会以我销毁的。
 
 ##dingsing's review
+1、继续看钱包这一章，接着看了三分之一
