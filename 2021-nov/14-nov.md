@@ -13,3 +13,4 @@ Master Ethereum chapter9 Security
 
 
 ##dingding's review:
+1、今天继续学习第八章的内容，以太坊智能合约
