@@ -5,3 +5,7 @@ Master Ethereum chapter9 security
 
 ##dingding's review
 1、今天看了第八章智能合约，没看完明天继续
+
+
+14号
+1、今天继续看了第八章合约的内容
