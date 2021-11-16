@@ -12,3 +12,4 @@ Mastering Ethereum chapter12 dapp
 10. Question for end: why it will decode to a unique a.b.c? 
 
 ##dingding's review
+1、开始看第10章token的内容
