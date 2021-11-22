@@ -6,3 +6,5 @@ Rust programming section7
 4. Pointer type-Reference: rust reference are never null. Rust tracks ownership and lifetimes of values. &T, immutable reference, read only. &must T, a mutable, exclusive ref. Enforce single writer or multi-reader, never both at the same time.
 5. Boxes: box will allocate men on heap, will freed when goes out of scope, If not be moved.
 6. Raw Pointer: unsafe, just like C lang.
+丁丁
+1、今天开始看第11章dapp
